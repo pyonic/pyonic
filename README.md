@@ -6,6 +6,6 @@ GitHub, GitLab, Docker, Databases (MySQL, Postgres, MongoDB), Caching systems - 
 
 **Frameworks:** ExpressJS, NestJS, Knex, Sequalize, MomentJS, Axios, Needle - Flask, FastAPI, Django, Pandas
 
-Telegram: https://t.me/pyonic
+Telegram: https://t.me/codebullet
 
 LinkedIn: https://www.linkedin.com/in/pyonic/
